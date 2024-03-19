@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.sterlingequity.com.au/superjp.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/gilajp.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/pakong86.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/viral88.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/clan4d.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/elang212.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/gori77.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/viral4d.html/sitemap.xml
+Sitemap: https://ftp.sterlingequity.com.au/playground88.html/sitemap.xml
